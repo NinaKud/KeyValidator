@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-- [Валидные ключи читаются как невалидные] (https://github.com/NinaKud/KeyValidator/issues/3)
-- [Невалидный ключ читается как валидный] (https://github.com/NinaKud/KeyValidator/issues/4)
+- [Валидные ключи читаются как невалидные] [https://github.com/NinaKud/KeyValidator/issues/3]
+- [Невалидный ключ читается как валидный] [https://github.com/NinaKud/KeyValidator/issues/4]
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
